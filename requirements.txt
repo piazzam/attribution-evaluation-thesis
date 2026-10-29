@@ -1,0 +1,7 @@
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+scipy>=1.11
+shap>=0.45
+lime>=0.2.0.1
+tqdm>=4.66
